@@ -30,7 +30,7 @@ Secondary school (Junior High - High School)
 - **GPAX (High School) :** 3.93
 
 ### College of Interdisciplinary Studies, Thammasat University
-- Studies Bechelor of Data Science and Innovation (since 2020)
+- Studies Bechelor of Data Science and Innovation (since 2021)
 
 ## Interesting
 - **Programming** python, HTML, C#, C++
