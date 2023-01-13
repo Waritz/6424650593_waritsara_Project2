@@ -37,7 +37,7 @@ Secondary school (Junior High - High School)
 - **Data Science/Engineering**
 
 ## Experience
-- **Programming** using C++, C#
+- **Programming** using C++, C#, python
 - **IoT Project** using Arduino, Raspberry Pi, KidBright, Blynk
 
 ## Achievement
